@@ -1,14 +1,8 @@
 # Dependencies
 
-## Production
-
 - React - Custom UI components with props, style, and state
 - React Native - React for mobile devices
 - Expo SecureStore - Secure local storage of credentials
-
-## Development
-
-- Express - Routing and HTTP request handling
 
 ## Setup
 
