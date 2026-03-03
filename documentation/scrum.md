@@ -1,30 +1,6 @@
 # Scrum
 
-## Product Backlog
-
-| Feature | Priority |
-|---|---|
-|  |  |
-
-| To Do | Doing | Done |
-|---|---|---|
-|  |  |  |
-
-## Sprints
-
-### Sprint X: Product Increment
-
-#### Velocity: Y
-
-#### Backlog
-
-| Feature | Points | Rationale |
-|---|---|---|
-|  |  |  |
-
-| To Do | Doing | Done | Failed |
-|---|---|---|---|
-|  |  |  |  |
+Current development is focused on backend. Sprints have not yet begun for frontend. For previous frontend work, see the archived project repo.
 
 ---
 
