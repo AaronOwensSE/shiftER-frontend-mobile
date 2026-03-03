@@ -1,6 +1,6 @@
 # Lessons Learned
 
-Current development is focused on backend. Sprints have not yet begun for frontend. For previous frontend work, see the archived project repo.
+Current development is focused on the backend. New sprints have not yet begun for the frontend. For previous frontend work, see the archived project repo.
 
 ---
 
