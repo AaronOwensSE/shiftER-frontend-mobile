@@ -1,6 +1,6 @@
 # shiftER-frontend-mobile
 
-The mobile frontend for a group scheduling app that enables professionals to claim their preferred work shifts using a snake draft (or serpentine draft).
+The mobile frontend for a group scheduling app that enables professionals to coordinate work schedules using a snake draft (or serpentine draft).
 
 ## Documentation
 
